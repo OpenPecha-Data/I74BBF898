@@ -1,0 +1,11 @@
+id: 6cc6e9e6257d487490b14c9239b26adf
+annotation_type: index
+revision: '00001'
+annotations:
+  82b7d0c232cb497ebf55cd563ec2f103:
+    base: 9CD9.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 2621
